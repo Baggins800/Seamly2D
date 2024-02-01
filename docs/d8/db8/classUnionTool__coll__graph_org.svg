@@ -271,8 +271,8 @@
 <text text-anchor="start" x="8" y="-2001" font-family="Helvetica,sans-Serif" font-size="10.00">+ UpdateId()</text>
 <text text-anchor="start" x="8" y="-1990" font-family="Helvetica,sans-Serif" font-size="10.00">+ ClearUniqueNames()</text>
 <text text-anchor="start" x="8" y="-1979" font-family="Helvetica,sans-Serif" font-size="10.00">+ ClearUniqueIncrementNames()</text>
-<text text-anchor="start" x="8" y="-1968" font-family="Helvetica,sans-Serif" font-size="10.00">+ SetSize()</text>
-<text text-anchor="start" x="8" y="-1957" font-family="Helvetica,sans-Serif" font-size="10.00">+ SetHeight()</text>
+<text text-anchor="start" x="8" y="-1968" font-family="Helvetica,sans-Serif" font-size="10.00">+ setSize()</text>
+<text text-anchor="start" x="8" y="-1957" font-family="Helvetica,sans-Serif" font-size="10.00">+ setHeight()</text>
 <text text-anchor="start" x="8" y="-1946" font-family="Helvetica,sans-Serif" font-size="10.00">+ size()</text>
 <text text-anchor="start" x="8" y="-1935" font-family="Helvetica,sans-Serif" font-size="10.00">+ rsize()</text>
 <text text-anchor="start" x="8" y="-1924" font-family="Helvetica,sans-Serif" font-size="10.00">+ height()</text>
@@ -323,7 +323,7 @@
 <text text-anchor="start" x="972" y="-2116.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~VDomDocument()</text>
 <text text-anchor="start" x="972" y="-2105.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ elementById()</text>
 <text text-anchor="start" x="972" y="-2094.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ SetAttribute()</text>
-<text text-anchor="start" x="972" y="-2083.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MUnit()</text>
+<text text-anchor="start" x="972" y="-2083.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ measurementUnits()</text>
 <text text-anchor="start" x="972" y="-2072.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setXMLContent()</text>
 <text text-anchor="start" x="972" y="-2061.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ SaveDocument()</text>
 <text text-anchor="start" x="972" y="-2050.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Major()</text>

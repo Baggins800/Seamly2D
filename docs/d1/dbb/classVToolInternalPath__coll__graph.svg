@@ -343,8 +343,8 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="8" y="-2173" font-family="Helvetica,sans-Serif" font-size="10.00">+ UpdateId()</text>
 <text text-anchor="start" x="8" y="-2162" font-family="Helvetica,sans-Serif" font-size="10.00">+ ClearUniqueNames()</text>
 <text text-anchor="start" x="8" y="-2151" font-family="Helvetica,sans-Serif" font-size="10.00">+ ClearUniqueIncrementNames()</text>
-<text text-anchor="start" x="8" y="-2140" font-family="Helvetica,sans-Serif" font-size="10.00">+ SetSize()</text>
-<text text-anchor="start" x="8" y="-2129" font-family="Helvetica,sans-Serif" font-size="10.00">+ SetHeight()</text>
+<text text-anchor="start" x="8" y="-2140" font-family="Helvetica,sans-Serif" font-size="10.00">+ setSize()</text>
+<text text-anchor="start" x="8" y="-2129" font-family="Helvetica,sans-Serif" font-size="10.00">+ setHeight()</text>
 <text text-anchor="start" x="8" y="-2118" font-family="Helvetica,sans-Serif" font-size="10.00">+ size()</text>
 <text text-anchor="start" x="8" y="-2107" font-family="Helvetica,sans-Serif" font-size="10.00">+ rsize()</text>
 <text text-anchor="start" x="8" y="-2096" font-family="Helvetica,sans-Serif" font-size="10.00">+ height()</text>
@@ -395,7 +395,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="972" y="-2288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~VDomDocument()</text>
 <text text-anchor="start" x="972" y="-2277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ elementById()</text>
 <text text-anchor="start" x="972" y="-2266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ SetAttribute()</text>
-<text text-anchor="start" x="972" y="-2255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ MUnit()</text>
+<text text-anchor="start" x="972" y="-2255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ measurementUnits()</text>
 <text text-anchor="start" x="972" y="-2244.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setXMLContent()</text>
 <text text-anchor="start" x="972" y="-2233.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ SaveDocument()</text>
 <text text-anchor="start" x="972" y="-2222.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Major()</text>
